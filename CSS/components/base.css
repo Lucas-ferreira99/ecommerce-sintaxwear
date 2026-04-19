@@ -4,6 +4,11 @@ body {
     
 }
 
+.corpo{
+    padding: 2.5rem 0 2.5rem;
+    max-width: 1360px;
+    margin: 0 auto;
+}
 .btn {
     font-size: 1.25rem;
     width: 161px;
